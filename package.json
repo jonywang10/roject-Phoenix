@@ -1,0 +1,26 @@
+{
+"name": "wosssshiyiggegegeegefeichangfeichangshuaiqideshuaigege",
+"version": "1.0.0",
+"description": "Rise from the ashes with Project Phoenix! This initiative is dedicated to",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/jonywang10/roject-Phoenix.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "jonywang10",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
